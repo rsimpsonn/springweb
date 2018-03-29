@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1039px" height="441px" viewBox="0 0 1039 441" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.404353487" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1036" height="441"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3" transform="translate(-3637.000000, -1809.000000)">
+            <g id="Group-5" transform="translate(3640.000000, 1809.000000)">
+                <g id="Rectangle-3">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#FFFFFF" stroke-width="19" x="9.5" y="9.5" width="1017" height="422"></rect>
+                </g>
+                <circle id="Oval-6" stroke="#FFFFFF" stroke-width="19" cx="518.5" cy="220.5" r="150.5"></circle>
+                <path d="M13,316 C67,331.333333 102,368.333333 118,427" id="Path-23" stroke="#FFFFFF" stroke-width="19"></path>
+                <path d="M0,15 C54,30.3333333 89,67.3333333 105,126" id="Path-23" stroke="#FFFFFF" stroke-width="19" transform="translate(52.500000, 70.500000) scale(1, -1) translate(-52.500000, -70.500000) "></path>
+                <path d="M914,15 C968,30.3333333 1003,67.3333333 1019,126" id="Path-23" stroke="#FFFFFF" stroke-width="19" transform="translate(966.500000, 70.500000) scale(-1, -1) translate(-966.500000, -70.500000) "></path>
+                <path d="M914,316 C968,331.333333 1003,368.333333 1019,427" id="Path-23" stroke="#FFFFFF" stroke-width="19" transform="translate(966.500000, 371.500000) scale(-1, 1) translate(-966.500000, -371.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

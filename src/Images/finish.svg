@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1255px" height="348px" viewBox="0 0 1255 348" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.364555027" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3" transform="translate(-4346.000000, -2693.000000)">
+            <g id="Group-4" transform="translate(4346.000000, 2693.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="19" height="348"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="979" y="0" width="19" height="348"></rect>
+                <rect id="Rectangle-2" fill="#FFFFFF" x="19" y="10" width="40" height="41"></rect>
+                <rect id="Rectangle-2" fill="#FFFFFF" x="59" y="51" width="40" height="41"></rect>
+                <rect id="Rectangle-2" fill="#FFFFFF" x="99" y="10" width="40" height="41"></rect>
+                <g id="Group-3" transform="translate(199.000000, 51.000000) scale(1, -1) translate(-199.000000, -51.000000) translate(139.000000, 10.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-2" x="0" y="0" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="40" y="41" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="80" y="0" width="40" height="41"></rect>
+                </g>
+                <g id="Group-3" transform="translate(259.000000, 10.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-2" x="0" y="0" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="40" y="41" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="80" y="0" width="40" height="41"></rect>
+                </g>
+                <g id="Group-3" transform="translate(439.000000, 51.000000) scale(1, -1) translate(-439.000000, -51.000000) translate(379.000000, 10.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-2" x="0" y="0" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="40" y="41" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="80" y="0" width="40" height="41"></rect>
+                </g>
+                <rect id="Rectangle-2" fill="#FFFFFF" x="499" y="10" width="40" height="41"></rect>
+                <rect id="Rectangle-2" fill="#FFFFFF" x="539" y="51" width="40" height="41"></rect>
+                <rect id="Rectangle-2" fill="#FFFFFF" x="579" y="10" width="40" height="41"></rect>
+                <g id="Group-3" transform="translate(679.000000, 51.000000) scale(1, -1) translate(-679.000000, -51.000000) translate(619.000000, 10.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-2" x="0" y="0" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="40" y="41" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="80" y="0" width="40" height="41"></rect>
+                </g>
+                <g id="Group-3" transform="translate(739.000000, 10.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-2" x="0" y="0" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="40" y="41" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="80" y="0" width="40" height="41"></rect>
+                </g>
+                <g id="Group-3" transform="translate(919.000000, 51.000000) scale(1, -1) translate(-919.000000, -51.000000) translate(859.000000, 10.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-2" x="0" y="0" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="40" y="41" width="40" height="41"></rect>
+                    <rect id="Rectangle-2" x="80" y="0" width="40" height="41"></rect>
+                </g>
+                <polygon id="Path-22" fill="url(#linearGradient-1)" points="0 348 280 199 1256 199 998 348"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

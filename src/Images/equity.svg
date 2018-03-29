@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1362px" height="832px" viewBox="0 0 1362 832" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="5.62070506%" x2="49.0817027%" y2="78.4160808%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.214419158" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.927366395">
+        <g id="Artboard-3" transform="translate(-2892.000000, -2696.000000)">
+            <g id="Group-2" transform="translate(2901.000000, 2703.000000)">
+                <polyline id="Path-21" stroke="#FFFFFF" stroke-width="19" points="0 820 182 487 390 597 679 143 1033 331 1346 0"></polyline>
+                <polyline id="Path-21" fill="url(#linearGradient-1)" points="0 996 0 820 182 487 390 597 679 143 1033 331 1346 0 1346 996"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
