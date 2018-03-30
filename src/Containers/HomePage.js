@@ -380,7 +380,7 @@ export default class HomePage extends Component {
                 >
                   <img
                     src={require("../Images/finish.svg")}
-                    style={{ width: 200, height: "auto" }}
+                    style={{ width: 240, height: "auto" }}
                   />
                 </div>
                 <SubText style={{ fontSize: 20, fontWeight: 300 }}>
@@ -598,7 +598,7 @@ export default class HomePage extends Component {
                   >
                     <img
                       src={require("../Images/finish.svg")}
-                      style={{ width: 200, height: "auto" }}
+                      style={{ width: 240, height: "auto" }}
                     />
                   </div>
                   <SubText style={{ fontSize: 20 }}>
