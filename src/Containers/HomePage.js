@@ -6,7 +6,8 @@ import * as FontAwesome from "react-icons/lib/fa";
 import ApplyBox from "../Components/ApplyBox";
 import MediaQuery from "react-responsive";
 import Slider from "react-slick";
-import SimpleSlider from "../Components/Bulb";
+import Head from "../Components/Header";
+
 require("firebase/firestore");
 
 export default class HomePage extends Component {
@@ -41,6 +42,9 @@ export default class HomePage extends Component {
     };
     return (
       <Column>
+        <MediaQuery query="(min-device-width: 1224px)">
+          <Head full={false} />
+        </MediaQuery>
         <MainView>
           <MediaQuery query="(min-device-width: 1224px)">
             <SubText style={{ fontWeight: 200 }}>Welcome to</SubText>
@@ -86,8 +90,8 @@ export default class HomePage extends Component {
         <MediaQuery query="(min-width: 1224px)">
           <Row>
             <img
-              src={require("../Images/orange-guy.svg")}
-              style={{ width: "20%", height: "auto", margin: "10%" }}
+              src={require("../Images/illustration.png")}
+              style={{ width: "30%", height: "auto", margin: "5%" }}
             />
             <Col>
               <Header>High school students,</Header>
@@ -156,8 +160,8 @@ export default class HomePage extends Component {
               </Paragraph>
             </Col>
             <img
-              src={require("../Images/orange-guy.svg")}
-              style={{ width: "40%", height: "auto", margin: "10%" }}
+              src={require("../Images/illustration.png")}
+              style={{ width: "60%", height: "auto", margin: "10%" }}
             />
           </Row>
         </MediaQuery>

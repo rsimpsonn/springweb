@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="614px" height="526px" viewBox="0 0 614 526" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-15" transform="translate(-146.000000, -153.000000)">
+            <g id="Group-2" transform="translate(146.000000, 153.000000)">
+                <path d="M85,231.5 C59.8710439,231.5 39.5,251.871044 39.5,277 L39.5,466 C39.5,491.128956 59.8710439,511.5 85,511.5 L528,511.5 C553.128956,511.5 573.5,491.128956 573.5,466 L573.5,277 C573.5,251.871044 553.128956,231.5 528,231.5 L396.419938,231.5 C396.250138,231.5 396.091943,231.586175 395.999856,231.728833 C373.5579,266.495121 343.190902,284.222217 306.215741,283.497213 C269.652463,282.780286 241.677029,265.099187 224.042367,231.766182 C223.955735,231.60243 223.785663,231.5 223.600405,231.5 L85,231.5 Z" id="Rectangle-17" stroke="#FFFFFF" stroke-width="29"></path>
+                <rect id="Rectangle-18" fill="#FFFFFF" x="563" y="278" width="51" height="94" rx="23"></rect>
+                <rect id="Rectangle-18" fill="#FFFFFF" x="0" y="278" width="51" height="94" rx="23"></rect>
+                <path d="M140.5,211.619998 L487.120494,214.500501 L472.5,229 L472.5,36 C472.5,24.1258779 462.874122,14.5 451,14.5 L162,14.5 C150.125878,14.5 140.5,24.1258779 140.5,36 C140.5,143.410695 140.5,151.53999 140.5,210.430526 L140.5,211.619998 Z" id="Rectangle-19" stroke="#FFFFFF" stroke-width="29"></path>
+                <rect id="Rectangle-20" fill="#FFFFFF" x="175" y="64" width="216" height="35" rx="17.5"></rect>
+                <rect id="Rectangle-20" fill="#FFFFFF" x="175" y="134" width="132" height="35" rx="17.5"></rect>
+                <rect id="Rectangle-21" fill="#FFFFFF" x="225" y="433" width="163" height="30" rx="15"></rect>
+                <g id="Group" transform="translate(112.000000, 325.000000)" fill="#FFFFFF">
+                    <circle id="Oval-32" cx="15" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="75" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="135" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="195" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="255" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="315" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="375" cy="15" r="15"></circle>
+                </g>
+                <g id="Group" transform="translate(143.000000, 371.000000)" fill="#FFFFFF">
+                    <circle id="Oval-32" cx="15" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="75" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="135" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="195" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="255" cy="15" r="15"></circle>
+                    <circle id="Oval-32" cx="315" cy="15" r="15"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
