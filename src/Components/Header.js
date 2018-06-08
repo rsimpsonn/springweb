@@ -20,6 +20,12 @@ export default class Head extends Component {
         >
           BLOG
         </MainText>
+        <MainText
+          full={this.props.full}
+          onClick={() => (window.location.href = "/team")}
+        >
+          TEAM
+        </MainText>
       </MainView>
     );
   }
